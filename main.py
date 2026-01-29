@@ -77,9 +77,9 @@ keyboard = InlineKeyboardMarkup([
 
 # Image URLs for the random image feature
 image_urls = [
-    "https://tinypic.host/image/3SSkb",
-    "https://tinypic.host/image/3S8x5", 
-    "https://tinypic.host/image/3SfAE",
+    "https://graph.org/file/f58d5d9a4f94fa0ad7fcc-cc2d3b41ecd9b5cbd1.jpg",
+    "https://graph.org/file/dfd9fe56e29f41b74900f-485e4dda0b2475b549.jpg", 
+    "https://graph.org/file/68274e0b2f05b867c91ba-3b6af9907eb00727e4.jpg",
     # Add more image URLs as needed
 ]
 
