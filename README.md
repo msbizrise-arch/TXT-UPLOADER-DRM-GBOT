@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ GULSHAN DRM Bot ✨
+  ✨ SMARTY DRM Bot ✨
 </h1>
 
 <p align="center">
@@ -46,4 +46,4 @@
 
 ## 🤖 Bot Usernames
 
-> 👨‍💻 Created with ❤️ by  @GUL5H4N
+> 👨‍💻 Created with ❤️ by  @SmartBoy_ApnaMS
